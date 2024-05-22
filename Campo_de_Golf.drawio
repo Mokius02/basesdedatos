@@ -1,9 +1,30 @@
-<mxfile host="app.diagrams.net" modified="2024-05-22T10:41:36.892Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 OPR/109.0.0.0" version="24.4.4" etag="ZPvbcoM3jGrOWCI4VXB3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-22T10:43:45.860Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 OPR/109.0.0.0" etag="jzLvntD05icGS6C3X3uP" version="24.4.4" type="github">
   <diagram name="Página-1" id="MYhzSxHnuYfF_QKsgOc1">
-    <mxGraphModel>
+    <mxGraphModel dx="1180" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="sus_bbIQdynmxPs1JQZI-1" value="Relationship" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="350" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sus_bbIQdynmxPs1JQZI-3" value="id_campo" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+          <mxGeometry x="90" y="180" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sus_bbIQdynmxPs1JQZI-4" value="Nombre" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="110" y="120" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sus_bbIQdynmxPs1JQZI-5" value="Campo_de_golf" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="210" y="210" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sus_bbIQdynmxPs1JQZI-6" value="Ubicacion" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="190" y="70" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sus_bbIQdynmxPs1JQZI-7" value="Par" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="300" y="90" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sus_bbIQdynmxPs1JQZI-8" value="Dimensiones" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="340" y="140" width="100" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
